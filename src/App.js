@@ -9,10 +9,12 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Hey Team, enjoying lockdown? I am fed up being locked up in this room. Madly need to visit WZ! 
+    
+          Anyways checkout my github account from the below link
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/karthicksndr"
           target="_blank"
           rel="noopener noreferrer"
         >
